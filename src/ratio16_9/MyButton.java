@@ -5,7 +5,6 @@
  */
 package ratio16_9;
 
-import javafx.scene.control.Button;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
